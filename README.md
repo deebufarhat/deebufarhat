@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deebufarhat
-- 👀 I’m interested in coding as well as web development.
+- 👀 I’m interested in software development as well as web development.
 - 🌱 I’m currently learning c++, c and HTML,CSS, Javascript.
 - 📫 How to reach me 
       email=farhatmir03@gmail.com.
